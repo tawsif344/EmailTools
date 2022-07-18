@@ -38,9 +38,3 @@ python e-tools.py
 
 ## Tool ScreenShot:
 <img src="https://i.top4top.io/p_2263afge60.jpg" alt="EmailTools">
-
-<br><br>
-# Visitors :
-
-
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
