@@ -1,8 +1,8 @@
 # EmailTools
 # An E-Mail Toolkit Which Contains Some Useful E-Mail Tools
-# Author  : ToxicNoob
-# GitHub  : https://github.com/Toxic-Noob/
-# Version : 1.0
+# Author  : tawsif
+# GitHub  : https://github.com/tawsif344/EmailTools
+# Version : 2.0
 
 # If You Copy Any Code, Give Credit
 # Learn Everything, Teach Everyone
